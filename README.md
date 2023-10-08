@@ -1,2 +1,2 @@
 # HuggingFace_Summarization
-summarization using Hugging face library
+summarization text using Hugging face library
